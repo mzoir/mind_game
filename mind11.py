@@ -86,6 +86,7 @@ print('hhhhhh not our god but your only god')
 edited = 'edited and founder by mzoir'
 print(edited)
 answers = input('if x > 5 and x < 11')
+x = 10
 print(x)
 print('----','+');print('m');print('----','+');print('----','+','----','+')
 print('----','+');print('z');print('----','+');print('----','+','----','+')
