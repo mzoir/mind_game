@@ -2,7 +2,7 @@ print("""\033[1;32;40mHELLO
 IN FIRST PROGRAM IN
 PYTHON,THIS IS
 SIMLPE
-        PROGRAMMATION  BASED ON VERY SIMPLE
+PROGRAMMATION  BASED ON VERY SIMPLE
 COMPOSITION,I
 told about this games you must to try be
 intellegent\n""")
@@ -10,7 +10,7 @@ print('---+---','HELLO','----++++')
 print("""''''''++++++++
                 +++++-------------------;;;
   '''''''''''hello ++++++ hello """)
-  print("\033[1;32;40mhello all of you\n")
+  print("""\033[1;32;40mhello all of you\n""")
 print("""in our games it
 very hard try to be
 intellegente""")
