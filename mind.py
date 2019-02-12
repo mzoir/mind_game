@@ -9,12 +9,12 @@ intellegent\n""")
 print('---+---','HELLO','----++++')
 print("""''''''++++++++
                 +++++-------------------;;;
-  '''''''''''hello ++++++ hello """)
+'''''''''hello ++++++ hello """)
 print("\033[1;32;40mhello all of you\n")
 print("""in our games it
 very hard try to be
 intellegente""")
-question = input("""\033[1;32;41mwhat is your a$
+question = input("""\033[1;32;41mwhat is your')
 print(True)
 question2 = input('what is your love,answer=')
 print(False)
