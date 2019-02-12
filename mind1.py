@@ -10,7 +10,7 @@ print('---+---','HELLO','----++++')
 print("""''''''++++++++
                 +++++-------------------;;;
   '''''''''''hello ++++++ hello """)
-  print("\033[1;32;40mhello all of you\n")
+print("\033[1;32;40mhello all of you\n")
 print("""in our games it
 very hard try to be
 intellegente""")
